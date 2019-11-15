@@ -2,12 +2,13 @@
 
 **It contians projects from online JavaScript Course done from Udemy.**
 
-_1. PigGame_
-_2. QuizGame Console_
+*1. PigGame*
+
+*2. QuizGame Console*
 
 ## PIG GAME DESCRIPTION 
 
-### Game Rules 
+#### Game Rules 
 
  The game has 2 players, playing in rounds
 -  In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
@@ -15,7 +16,7 @@ _2. QuizGame Console_
 -  The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 -  The first player to reach 100 points on GLOBAL score wins the game
 
-### Game Challenges 
+#### Game Challenges 
 
 Change the game to follow these rules:
 
@@ -25,7 +26,7 @@ Change the game to follow these rules:
 
 ## QUIZ GAME DESCRIPTION
 
-###Let's build a fun quiz game in the console and here are rules
+#### Let's build a fun quiz game in the console and here are rules
 
 1. Build a function constructor called Question to describe a question. A question should include:
 a) question itself
