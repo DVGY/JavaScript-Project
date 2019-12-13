@@ -1,0 +1,10 @@
+#Javascript and VS CODE
+
+node_modules/
+Thumbs.db
+ehthumbs.db
+.settings/
+.vscode/
+
+
+
