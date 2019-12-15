@@ -28,4 +28,69 @@ export default class Recipe {
   calcServing() {
     this.serving = 4;
   }
+
+  parseIngredients() {
+    // Chnage to standard units
+    const unitLong = [
+      "tablespoons",
+      "tablespoon",
+      "teaspoons",
+      "teaspoon",
+      "ounces",
+      "pounds",
+      "cups"
+    ];
+    const unitShort = ["tbsp", "tbsp", "tsp", "tsp", "oz", "pound", "cup"];
+    const units = [...unitShort, "kg", "g"];
+    const newIngredients = this.ingredients.map(el => {
+      let ingredient = el.toLowerCase();
+      unitLong.forEach((unit, i) => {
+        ingredient = ingredient.replace(unit, unitShort[i]);
+      });
+      // Replace paranthese
+      ingredient = ingredient.replace(/ *\([^)]*\) */g, " ");
+
+      //Parse Ingredients into count,unit and Ingredients
+
+      let objIng;
+      // Splitting the ingredients into array
+      const arrIng = ingredient.split(" ");
+      const unitIndex = arrIng.findIndex(el2 => units.includes(el2));
+
+      if (unitIndex > -1) {
+        //Unit is present
+        let count;
+        const arrCount = arrIng.slice(0, unitIndex);
+        if (arrCount.length === 1) {
+          count = eval(arrIng[0].replace("-", "+"));
+        } else {
+          count = eval(arrIng.slice(0, unitIndex).join("+"));
+        }
+
+        objIng = {
+          count,
+          unit: arrIng[unitIndex],
+          ingredient: arrIng.slice(unitIndex + 1).join(" ")
+        };
+      } else if (parseInt(arrIng[0], 10)) {
+        //Number present at start
+
+        objIng = {
+          count: parseInt(arrIng[0], 10),
+          unit: "",
+          ingredient: arrIng.slice(1).join(" ")
+        };
+      } else if (unitIndex === -1) {
+        //No unit and No number present at start
+        objIng = {
+          count: 1,
+          unit: "",
+          ingredient
+        };
+      }
+
+      return objIng;
+    });
+    this.ingredients = newIngredients;
+  }
 }
