@@ -4,18 +4,11 @@ export const getInput = () => elements.searchInput.value;
 export const clearSearchField = () => {
   elements.searchInput.value = " ";
 };
-//***********************ERROR  */
-export const resultHighlight = id => {
-  console.log(`${id}`);
-  document
-    .querySelector(`[href*="${id}"]`)
-    .classList.add("results__link--active");
-};
 export const clearResList = () => {
   elements.searchResList.innerHTML = "";
   elements.searchResPage.innerHTML = "";
 };
-const reduceRecipeTitle = (title, limit = 17) => {
+export const reduceRecipeTitle = (title, limit = 17) => {
   const newTitle = [];
   if (title.length > limit) {
     title.split(" ").reduce((acc, cur) => {
