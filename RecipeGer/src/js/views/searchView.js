@@ -5,12 +5,12 @@ export const clearSearchField = () => {
   elements.searchInput.value = " ";
 };
 //***********************ERROR  */
-// export const resultHighlight = id => {
-//   console.log(`${id}`);
-//   document
-//     .querySelector(`a[href="#${id}"]`)
-//     .classList.add("results__link--active");
-// };
+export const resultHighlight = id => {
+  console.log(`${id}`);
+  document
+    .querySelector(`[href*="${id}"]`)
+    .classList.add("results__link--active");
+};
 export const clearResList = () => {
   elements.searchResList.innerHTML = "";
   elements.searchResPage.innerHTML = "";
