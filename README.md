@@ -19,13 +19,9 @@ Project       | Technologies        |    IDE               |
 Pig Game      | JavaScript ES5      | VS Code AND Google Chrome  |              
 Quiz Game     | JavaScript ES5      | VS Code AND Google Chrome   |              
 Budgety       | JavaScript ES6      | VS Code AND Google Chorme   |
-------------------------------------------------------------------
-RecipeGer     | JavaScript ES6      | VS Code AND Google Chrome   |
-a             | npm v6.12+          |                      |
-  dd          | babel v6.23+        |                      |
-    d         | webpack v4.41+      |                      |                     
-Laptop Store  | Node.js             | VS Code and Google Chrome   |
-              | Nodemon 2.02        |                      |
+RecipeGer     | JavaScript ES6, webpack v4.41+, npm v6.12+ & babel v6.23+       | VS Code AND Google Chrome   |               
+Laptop Store  | Node.js & Nodemon 2.02             | VS Code and Google Chrome   |
+              |        |                      |
 
 ## Setup 
 
