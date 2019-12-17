@@ -1,3 +1,24 @@
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+This project is simple Lorem ipsum dolor generator.
+	
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+	
+## Setup
+To run this project, install it locally using npm:
+
+
+
+
+
 # Table of contents
 * [Project List](#project-list)
 * [Technologies](#technologies)
@@ -32,6 +53,10 @@ Change the game to follow these rules:
 3. Add another dice to the game, so that there are two dices now. The player looses his current score when one of them is a 1. (Hint: you will need CSS to position the second dice, so take a look at the CSS code for the first one.)
 
 ## QUIZ GAME DESCRIPTION
+
+
+
+
 
 #### Let's build a fun quiz game in the console and here are rules
 
