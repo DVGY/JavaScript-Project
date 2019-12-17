@@ -14,6 +14,12 @@
 
 ## Technologies
 
+Project       | Technologies |
+------------- | -------------|
+Pig Game      | Content Cell |
+Quiz Game     | Content Cell |
+
+
 ## Setup 
 
 ### Pig Game
