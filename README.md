@@ -19,20 +19,23 @@ To run this project, install it locally using npm:
 
 
 
-# Table of contents
+## Table of contents
 * [Project List](#project-list)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 
 
-##Project List
-
-**It contians projects from online JavaScript Course done from Udemy.**
-
+## Project List
 *1. PigGame*
 
 *2. QuizGame Console*
+
+*3. Budgety*
+
+*4. RecipeGer*
+
+*5. Laptop Store*
 
 ## PIG GAME DESCRIPTION 
 
