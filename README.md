@@ -1,6 +1,7 @@
 # Table of contents
 * [Project List](#project-list)
 * [Technologies](#technologies)
+* [Credit](#Credits)
 
 
 
@@ -23,6 +24,10 @@ Budgety       | JavaScript ES6      | VS Code and Google Chorme   |
 RecipeGer     | JavaScript ES6, webpack v4.41+, npm v6.12+ & babel v6.23+       | VS Code and Google Chrome   |               
 Laptop Store  | Node.js & Nodemon 2.02             | VS Code and Google Chrome   |
               
+## Credits
+  Markup : * The Complete JavaScript Course 2020: Build Real Projects!
+           * Author/Instructor : Jonas Schmedtmann
+
 
 
 
