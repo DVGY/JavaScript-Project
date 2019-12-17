@@ -32,7 +32,7 @@ Laptop Store  | Node.js & Nodemon 2.02             | VS Code and Google Chrome  
 
 
 ### Pig Game
-Markup : <details>
+ <details>
            <summary>Title 1</summary>
            <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
          </details>
