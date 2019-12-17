@@ -1,5 +1,5 @@
 ## Table of contents
-* [General info](#general-info)
+* [Project List](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
