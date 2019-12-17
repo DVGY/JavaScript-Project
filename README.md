@@ -1,11 +1,11 @@
-## Table of contents
+# Table of contents
 * [Project List](#project-list)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 
 
-# JavaScript-Project
+#project-list
 
 **It contians projects from online JavaScript Course done from Udemy.**
 
