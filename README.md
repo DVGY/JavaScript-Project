@@ -1,7 +1,7 @@
 # Table of contents
 * [Project List](#project-list)
 * [Technologies](#technologies)
-* [Setup](#setup)
+
 
 
 
@@ -21,9 +21,9 @@ Quiz Game     | JavaScript ES5      | VS Code AND Google Chrome   |
 Budgety       | JavaScript ES6      | VS Code AND Google Chorme   |
 RecipeGer     | JavaScript ES6, webpack v4.41+, npm v6.12+ & babel v6.23+       | VS Code AND Google Chrome   |               
 Laptop Store  | Node.js & Nodemon 2.02             | VS Code and Google Chrome   |
-              |        |                      |
+              
 
-## Setup 
+
 
 ### Pig Game
 ### Quiz Game
