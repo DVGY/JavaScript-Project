@@ -14,11 +14,17 @@
 
 ## Technologies
 
-Project       | Technologies |
-------------- | -------------|
-Pig Game      | Content Cell |
-Quiz Game     | Content Cell |
-
+Project       | Technologies        |    IDE               |              
+------------- | -------------       | -------------        | 
+Pig Game      | JavaScript ES5      | VS CODE AND CHROME   |              
+Quiz Game     | JavaScript ES5      | VS CODE AND CHROME   |              
+Budgety       | JavaScript ES6      | VS CODE AND CHROME   |
+RecipeGer     | JavaScript ES6      | VS CODE AND CHROME   |
+              | npm v6.12+          |                      |
+              | babel v6.23+        |                      |
+              | webpack v4.41+      |                      |                     
+Laptop Store  | Node.js             | VS CODE AND CHROME   |
+              | Nodemon 2.02        |                      |
 
 ## Setup 
 
