@@ -1,4 +1,4 @@
-## Table of contents
+# Table of contents
 * [Project List](#project-list)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -16,5 +16,8 @@
 
 ## Setup 
 
-## Pig Game
+### Pig Game
 ### Quiz Game
+### Budgety
+### RecipeGer
+### Laptop Store
