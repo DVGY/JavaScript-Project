@@ -33,9 +33,20 @@ Laptop Store  | Node.js & Nodemon 2.02             | VS Code and Google Chrome  
 
 ### Pig Game 
   ![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/Info_PigGame.png)
-  ![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/Pig2.gif)
+  ![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/Pgigame.gif)
 
 ### Quiz Game
+![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/QuizGame.gif)
+  
+
 ### Budgety
+![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/Info_Budgety.png)
+  ![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/Budgety.gif)
+
 ### RecipeGer
+![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/Info_RecipeGer.png)
+  ![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/RecipeGer.gif)
+
+
 ### Laptop Store
+![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/LaptopStore.gif)
