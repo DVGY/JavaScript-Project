@@ -32,6 +32,7 @@ Laptop Store  | Node.js & Nodemon 2.02             | VS Code and Google Chrome  
 
 
 ### Pig Game 
+  ![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/Info_PigGame.png)
   ![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/Pig2.gif)
 
 ### Quiz Game
