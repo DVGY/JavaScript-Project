@@ -33,11 +33,11 @@ Laptop Store  | Node.js & Nodemon 2.02             | VS Code and Google Chrome  
 
 ### Pig Game 
   ![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/Info_PigGame.png)
-<<<<<<< HEAD
+
   ![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/Pig2.gif)
-=======
+
   ![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/Pgigame.gif)
->>>>>>> 31815d7e3d7e9b201bcaf361ff3650dc85108bb3
+
 
 ### Quiz Game
 ![alt text](https://github.com/DVGY/JavaScript-Project/blob/master/demo/QuizGame.gif)
